@@ -27,8 +27,7 @@ const Footer = () => {
             ))}
           </div>
           <span>
-            Made With <icon>❤</icon> by{" "}
-            <p>   Melody</p>
+            Made With <icon>❤</icon> by{"Melody"}
           </span>
         </div>
       </div>
