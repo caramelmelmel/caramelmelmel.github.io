@@ -13,6 +13,8 @@ const Layout = ({ children }) => {
   return (
     <>
       <Navigation></Navigation>
+      <br/>
+      <br/>
       <main>{children}</main>
     </>
   )
